@@ -1,0 +1,18 @@
+.list {
+  display: inline-block;
+  text-align: center;
+  width: 300px;
+  margin: 30px;
+}
+.item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 10px;
+  background: #55acee;
+  box-shadow: 0 5px 0 #3c93d5;
+  transition: 0.3s;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 30px;
+}
